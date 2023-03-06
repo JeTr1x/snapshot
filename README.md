@@ -1,4 +1,4 @@
-# Nolus snapshot (updated every 12 hours) ~4.5GB
+# Nolus-rila snapshot (updated every 12 hours) ~4.5GB
 
 
 Stop the node and remove db
